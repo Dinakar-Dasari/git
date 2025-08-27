@@ -15,9 +15,3 @@
 + CMF --> Kante
 
 + RMF --> kroos
-
-+ DMF --> inesta
-
-+ CB  --> pyoul
-
-+ RB  --> Pique
